@@ -139,6 +139,7 @@
     <ClCompile Include="Material2.cpp" />
     <ClCompile Include="Materials.cpp" />
     <ClCompile Include="PlayerClass.h" />
+    <ClCompile Include="Project.cpp" />
     <ClCompile Include="Textures2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
